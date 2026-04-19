@@ -1,0 +1,11 @@
+{
+    "name": "Double Up Joker",
+    "id": "dupjoker",
+    "version": "0.1.0",
+    "website_url": "N/A",
+    "description": "The double up joker adds +12 mult on a two pair when two of the selected cards share a suit",
+    "prefix": "dup",
+    "author": ["pero-sk"],
+    "main_file": "dup.lua",
+    "badge_colour": "a63fea"
+}
