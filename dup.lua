@@ -5,6 +5,13 @@ SMODS.Atlas {
     py = 95
 }
 
+SMODS.Atlas {
+    key = "tarots",
+    path = "the_mirror.png",
+    px = 71,
+    py = 95
+}
+
 -- helper
 local function dup_mark_unlock_progress(which)
     G.GAME.current_round.dup_unlock = G.GAME.current_round.dup_unlock or {
@@ -88,6 +95,8 @@ SMODS.Joker {
 SMODS.Consumable {
     key = "the_mirror",
     set = "Tarot",
+    atlas = "dup_tarots",
+    pos = { x = 0, y = 0 },
     cost = 8,
 
     can_use = function(_, _)
