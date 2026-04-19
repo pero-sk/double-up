@@ -1,6 +1,6 @@
 # Double Up Joker
 
-A Balatro mod that adds a new joker, a tarot card, and an unlockable deck.
+A Balatro mod that adds a new joker, a tarot card, and an unlockable deck. All favouring a Two Pair.
 
 ## Features
 
